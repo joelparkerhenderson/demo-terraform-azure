@@ -1,4 +1,4 @@
-# Demo of Terraform by Hashicorp for Azure
+# Demo of Terraform by HashiCorp for Azure
 
 Contents:
 
