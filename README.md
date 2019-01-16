@@ -2,7 +2,14 @@
 
 Contents:
 
-* [](#)
+* [Azure setup](#azure-setup)
+  * [Get your Azure account](#get-your-azure-account)
+  * [Get Azure software](#get-azure-software)
+  * [Get your Azure subscription id](#get-your-azure-subscription-id)
+* [Terraform setup](#terraform-setup)
+  * [Install](#install)
+  * [Configure](#configure)
+  * [Build](#build)
 
 
 ## Azure setup
@@ -76,7 +83,5 @@ Typical commands:
   * `terraform apply` runs it.
 
   * `terraform show` prints the results file.
-
-    * Caveat: when I ran `terraform apply` then I saw error messages; I needed to choose a different region, AMI, instance type, and IAM security policy. See [Terraform AWS troubleshooting](aws/troubleshooting.md)
 
 Congratulations, you're up and running!
