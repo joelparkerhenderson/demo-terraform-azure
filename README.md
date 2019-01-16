@@ -1,5 +1,7 @@
 # Demo of Terraform by HashiCorp for Azure
 
+<img src="README.png" alt="Terraform" style="width: 100%;"/>
+
 Contents:
 
 * [Azure setup](#azure-setup)
